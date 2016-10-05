@@ -70,15 +70,5 @@ int main(int argc, char *argv[])
 
 
 
-/************************OUTPUT*******************************
-
-http://linux.die.net/man/2/stat
-https://www.cl.cam.ac.uk/cgi-bin/manpage?2+fstat
-http://www.tutorialspoint.com/c_standard_library/time_h.htm
-http://stackoverflow.com/questions/19697152/what-is-posix-any-other-interface-standards-which-can-replace-it
-http://www.tutorialspoint.com/cprogramming/c_command_line_arguments.htm
-http://man7.org/linux/man-pages/man2/stat.2.html
-http://pubs.opengroup.org/onlinepubs/009695399/functions/chmod.html
-https://www.cl.cam.ac.uk/cgi-bin/manpage?2+fstat
-*/
+/*
 
